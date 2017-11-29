@@ -46,7 +46,7 @@ group :development do
   gem 'web-console', '>= 3.3.0'
 end
 
-group :prouction do
+group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
